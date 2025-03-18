@@ -1,0 +1,16 @@
+C:\Users\Satyendra Singh\source\repos\densoesd\obj\Debug\net8.0-windows\densoesd.Form1.resources
+C:\Users\Satyendra Singh\source\repos\densoesd\obj\Debug\net8.0-windows\densoesd.csproj.GenerateResource.cache
+C:\Users\Satyendra Singh\source\repos\densoesd\obj\Debug\net8.0-windows\densoesd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satyendra Singh\source\repos\densoesd\obj\Debug\net8.0-windows\densoesd.AssemblyInfoInputs.cache
+C:\Users\Satyendra Singh\source\repos\densoesd\obj\Debug\net8.0-windows\densoesd.AssemblyInfo.cs
+C:\Users\Satyendra Singh\source\repos\densoesd\obj\Debug\net8.0-windows\densoesd.csproj.CoreCompileInputs.cache
+C:\Users\Satyendra Singh\source\repos\densoesd\bin\Debug\net8.0-windows\densoesd.exe
+C:\Users\Satyendra Singh\source\repos\densoesd\bin\Debug\net8.0-windows\densoesd.deps.json
+C:\Users\Satyendra Singh\source\repos\densoesd\bin\Debug\net8.0-windows\densoesd.runtimeconfig.json
+C:\Users\Satyendra Singh\source\repos\densoesd\bin\Debug\net8.0-windows\densoesd.dll
+C:\Users\Satyendra Singh\source\repos\densoesd\bin\Debug\net8.0-windows\densoesd.pdb
+C:\Users\Satyendra Singh\source\repos\densoesd\obj\Debug\net8.0-windows\densoesd.dll
+C:\Users\Satyendra Singh\source\repos\densoesd\obj\Debug\net8.0-windows\refint\densoesd.dll
+C:\Users\Satyendra Singh\source\repos\densoesd\obj\Debug\net8.0-windows\densoesd.pdb
+C:\Users\Satyendra Singh\source\repos\densoesd\obj\Debug\net8.0-windows\densoesd.genruntimeconfig.cache
+C:\Users\Satyendra Singh\source\repos\densoesd\obj\Debug\net8.0-windows\ref\densoesd.dll
